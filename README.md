@@ -25,5 +25,5 @@ This repository contains a macro-enabled Excel project (`.xlsm`) created for an 
 
 **Antonieta Della Sala**  
 Industrial Engineering Student at University of South Florida  
-GitHub: [@Anonieta](https://github.com/Anonieta)
+GitHub: [@Antonieta](https://github.com/Antonieta)
 
